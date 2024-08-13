@@ -8,7 +8,7 @@ No curso, o desafio era criar uma pintura de gato usando CSS e HTML e aprender a
 Habilidades trabalhadas:
 
 * Posicionamento no CSS
-* Layout tridimensional com a propriedade Transform
+* Layout tridimensional com a propriedade: "Transform".
 
 **Tecnologias:**
 * HTML5
