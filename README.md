@@ -14,7 +14,3 @@ Habilidades trabalhadas:
 * HTML5
 * CSS3
 
-**Instalação:**
-1. Clone o repositório:
-   ```bash
-   git clone [https://dle.rae.es/inv%C3%A1lido](https://dle.rae.es/inv%C3%A1lido)
